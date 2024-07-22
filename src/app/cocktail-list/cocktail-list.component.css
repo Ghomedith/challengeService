@@ -1,0 +1,7 @@
+/* src/app/cocktail-list/cocktail-list.component.css */
+.cocktail {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+} 
